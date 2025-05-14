@@ -1,0 +1,37 @@
+[
+    {
+        "source_node": "Marie Curie",
+        "target_node": "Pierre Curie",
+        "relationship": "MARRIED_TO"
+    },
+    {
+        "source_node": "Marie Curie",
+        "target_node": "Nobel Prize",
+        "relationship": "WON"
+    },
+    {
+        "source_node": "Pierre Curie",
+        "target_node": "Marie Curie",
+        "relationship": "CO_WON"
+    },
+    {
+        "source_node": "Marie Curie",
+        "target_node": "Nobel Prize",
+        "relationship": "FIRST_WOMAN_TO_WIN"
+    },
+    {
+        "source_node": "Marie Curie",
+        "target_node": "Nobel Prize",
+        "relationship": "FIRST_PERSON_TO_WIN_TWICE"
+    },
+    {
+        "source_node": "Pierre Curie",
+        "target_node": "Marie Curie",
+        "relationship": "FIRST_EVER_MARRIED_COUPLE_TO_WIN"
+    },
+    {
+        "source_node": "Curie family legacy",
+        "target_node": "five Nobel Prizes",
+        "relationship": "ASSOCIATED_WITH"
+    }
+]
